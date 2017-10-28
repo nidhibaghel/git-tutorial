@@ -63,4 +63,4 @@ class MoviePlotGenerator {
 }
 
 $generator = new MoviePlotGenerator();
-print $generator->getPlot() . "\n";
+print $generator->getPlot() . "hello"."\n";
